@@ -1,2 +1,2 @@
-# reinforcement-learning
-Estudo de Reinforcement Learning
+# Reinforcement Learning
+Reinforcement Learning Study
